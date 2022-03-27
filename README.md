@@ -6,4 +6,3 @@ Só vai até R$6,49 A̶t̶é̶ ̶p̶o̶r̶q̶u̶e̶ ̶s̶e̶ ̶p̶a̶s̶s̶a̶r�
 Fiz esse troço só de sacanagem pra testar se eu tinha aprendido algo.
 Eu sei que o código tá horroroso.
 Bebe água.
-ccc
