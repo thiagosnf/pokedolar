@@ -1,5 +1,5 @@
 # pokedolar
-# Cotação do dólar pra real com pokémon
+Cotação do dólar pra real com pokémon.
 Nos finais de semana, os pokémon ficam shiny.
 Só vai até R$6,49 A̶t̶é̶ ̶p̶o̶r̶q̶u̶e̶ ̶s̶e̶ ̶p̶a̶s̶s̶a̶r̶ ̶d̶i̶s̶s̶o̶,̶ ̶f̶o̶d̶e̶u̶,̶ ̶n̶é̶?̶  Se passar de R$6,49 E̶s̶p̶e̶r̶o̶ ̶q̶u̶e̶ ̶n̶ã̶o̶  vai aparecer o MissingNO.
 
