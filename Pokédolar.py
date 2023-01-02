@@ -56,8 +56,6 @@ programa.eval('tk::PlaceWindow . center')
 programa.resizable(0,0)
 programa.iconbitmap("imagens/icon.ico")
 
-
-
 #Imagem de fundo
 bg= PhotoImage(file="imagens/bg.png")
 my_label = Label(programa,image=bg)
