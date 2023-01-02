@@ -40,7 +40,7 @@ if dia_da_semana == "sábado" or dia_da_semana == "domingo":
 else:
     dia_da_semana = normal
 
-if inteiro > 649:
+if inteiro > 905:
     dia_da_semana = missingno
 else:
     dia_da_semana = dia_da_semana
