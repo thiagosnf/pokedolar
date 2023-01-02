@@ -2,8 +2,6 @@ import requests
 from tkinter import *
 from datetime import date
 from pokedex import pokemon_lista
-import pandas as pd
-import win32com.client as win32
 
 #Buscar valor do dólar
 requisicao = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL")
