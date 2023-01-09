@@ -40,7 +40,7 @@ if dia_da_semana == "sábado" or dia_da_semana == "domingo":
 else:
     dia_da_semana = normal
 
-if inteiro > 905:
+if inteiro > 649:
     dia_da_semana = missingno
 else:
     dia_da_semana = dia_da_semana
@@ -50,7 +50,7 @@ nome_do_pokemon = pokemon_lista[inteiro-1]
 
 #Configurações da janela
 programa = Tk()
-programa.title("Pokédolar")
+programa.title("PokéDólar")
 programa.geometry("400x360")
 programa.eval('tk::PlaceWindow . center')
 programa.resizable(0,0)
